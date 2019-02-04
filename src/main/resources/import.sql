@@ -1,0 +1,1 @@
+INSERT INTO "note" (title, body) VALUES ('testTitle', 'testBody');
